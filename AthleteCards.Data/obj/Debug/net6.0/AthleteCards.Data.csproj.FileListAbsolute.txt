@@ -1,0 +1,12 @@
+C:\Users\Tinka\Documents\Cass_dict\DJ_Proj\AthleteCards.Data\bin\Debug\net6.0\AthleteCards.Data.deps.json
+C:\Users\Tinka\Documents\Cass_dict\DJ_Proj\AthleteCards.Data\bin\Debug\net6.0\AthleteCards.Data.dll
+C:\Users\Tinka\Documents\Cass_dict\DJ_Proj\AthleteCards.Data\bin\Debug\net6.0\ref\AthleteCards.Data.dll
+C:\Users\Tinka\Documents\Cass_dict\DJ_Proj\AthleteCards.Data\bin\Debug\net6.0\AthleteCards.Data.pdb
+C:\Users\Tinka\Documents\Cass_dict\DJ_Proj\AthleteCards.Data\obj\Debug\net6.0\AthleteCards.Data.csproj.AssemblyReference.cache
+C:\Users\Tinka\Documents\Cass_dict\DJ_Proj\AthleteCards.Data\obj\Debug\net6.0\AthleteCards.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tinka\Documents\Cass_dict\DJ_Proj\AthleteCards.Data\obj\Debug\net6.0\AthleteCards.Data.AssemblyInfoInputs.cache
+C:\Users\Tinka\Documents\Cass_dict\DJ_Proj\AthleteCards.Data\obj\Debug\net6.0\AthleteCards.Data.AssemblyInfo.cs
+C:\Users\Tinka\Documents\Cass_dict\DJ_Proj\AthleteCards.Data\obj\Debug\net6.0\AthleteCards.Data.csproj.CoreCompileInputs.cache
+C:\Users\Tinka\Documents\Cass_dict\DJ_Proj\AthleteCards.Data\obj\Debug\net6.0\AthleteCards.Data.dll
+C:\Users\Tinka\Documents\Cass_dict\DJ_Proj\AthleteCards.Data\obj\Debug\net6.0\ref\AthleteCards.Data.dll
+C:\Users\Tinka\Documents\Cass_dict\DJ_Proj\AthleteCards.Data\obj\Debug\net6.0\AthleteCards.Data.pdb

@@ -1,0 +1,15 @@
+Card
+Id
+Picture
+Name of player
+Is it a rookie Card
+Type of Card
+Year
+Hits
+Runs
+--------------------------------------
+Team
+Id
+Team Name
+List of Players
+
